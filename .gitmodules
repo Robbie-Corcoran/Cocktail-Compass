@@ -1,0 +1,6 @@
+[submodule "Cocktail-Compass-Frontend"]
+	path = Cocktail-Compass-Frontend
+	url = git@github.com:Robbie-Corcoran/Cocktail-Compass-Frontend.git
+[submodule "Cocktail-Compass-Backend"]
+	path = Cocktail-Compass-Backend
+	url = git@github.com:Robbie-Corcoran/Cocktail-Compass-Backend.git
